@@ -12,3 +12,5 @@ def introduction_page():
     st.write("I specialize in Integration, Validation, Verification, and Qualification (IVVQ).")
     st.write("I am passionate about ensuring the quality and reliability of complex systems.")
     st.write("My unique combination of skills and experience makes me a valuable asset in the field.")
+
+introduction_page()
